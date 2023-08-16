@@ -12,9 +12,6 @@ Código de demo y ejercicos.
 ## Help
 
 Cualquier duda usamos el equipo de Teams para comunicarnos.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
